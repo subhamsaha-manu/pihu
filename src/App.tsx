@@ -1,12 +1,11 @@
-import SimpleComponent from './components/SimpleComponent'
+import Quiz from './components/Quiz';
 
 function App() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-pink-100 via-red-50 to-purple-100">
-      <SimpleComponent />
+    <div className="min-h-screen bg-gradient-to-br from-purple-700 to-blue-400 flex items-center justify-center">
+      <Quiz />
     </div>
-  )
+  );
 }
 
-export default App
-
+export default App;

@@ -1,0 +1,126 @@
+{
+    "quizTitle": "Stranger Things Recap Quiz",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the name of the town where Stranger Things is set?",
+        "options": ["Hill Valley", "Hawkins", "Riverdale", "Sunnydale"],
+        "correctAnswer": "Hawkins"
+      },
+      {
+        "id": 2,
+        "question": "What is Eleven's real name?",
+        "options": ["Jane Ives", "Sarah Brenner", "Emily Hopper", "Jane Creel"],
+        "correctAnswer": "Jane Ives"
+      },
+      {
+        "id": 3,
+        "question": "What game are the boys playing in the first episode?",
+        "options": ["Dungeons & Dragons", "Magic: The Gathering", "Warhammer", "Pathfinder"],
+        "correctAnswer": "Dungeons & Dragons"
+      },
+      {
+        "id": 4,
+        "question": "Who gets trapped in the Upside Down in Season 1?",
+        "options": ["Mike", "Will", "Lucas", "Jonathan"],
+        "correctAnswer": "Will"
+      },
+      {
+        "id": 5,
+        "question": "What is the name of the creature the boys call the 'Demogorgon'?",
+        "options": ["Mind Flayer", "Shadow Beast", "Demodog", "Demogorgon"],
+        "correctAnswer": "Demogorgon"
+      },
+      {
+        "id": 6,
+        "question": "What food does Eleven love?",
+        "options": ["Waffles", "Burgers", "Pizza", "Donuts"],
+        "correctAnswer": "Waffles"
+      },
+      {
+        "id": 7,
+        "question": "Which character says the iconic line, 'Friends don’t lie'?",
+        "options": ["Mike", "Dustin", "Eleven", "Max"],
+        "correctAnswer": "Eleven"
+      },
+      {
+        "id": 8,
+        "question": "Where does Hopper find Eleven hiding in Season 2?",
+        "options": ["His cabin", "The school", "The Byers' house", "The lab"],
+        "correctAnswer": "His cabin"
+      },
+      {
+        "id": 9,
+        "question": "What is Max’s stepbrother Billy's last name?",
+        "options": ["Hargrove", "Henderson", "Wheeler", "Creel"],
+        "correctAnswer": "Hargrove"
+      },
+      {
+        "id": 10,
+        "question": "What is the name of Dustin’s creature in Season 2?",
+        "options": ["Gizmo", "Dart", "Fluff", "Spot"],
+        "correctAnswer": "Dart"
+      },
+      {
+        "id": 11,
+        "question": "Which mall becomes the central setting in Season 3?",
+        "options": ["Starcourt Mall", "Hawkins Mall", "Riverway Mall", "Brightstar Mall"],
+        "correctAnswer": "Starcourt Mall"
+      },
+      {
+        "id": 12,
+        "question": "What is the Russian code that Dustin intercepts in Season 3?",
+        "options": ["Silvercat feeds", "Bluebird sings", "Redstar rising", "Lifeline broken"],
+        "correctAnswer": "Silvercat feeds"
+      },
+      {
+        "id": 13,
+        "question": "Who becomes the host for the Mind Flayer in Season 3?",
+        "options": ["Billy", "Hopper", "Steve", "Jonathan"],
+        "correctAnswer": "Billy"
+      },
+      {
+        "id": 14,
+        "question": "What song does Max use to escape Vecna in Season 4?",
+        "options": ["Running Up That Hill", "Time After Time", "Take On Me", "Every Breath You Take"],
+        "correctAnswer": "Running Up That Hill"
+      },
+      {
+        "id": 15,
+        "question": "What is Vecna’s real name?",
+        "options": ["Henry Creel", "Peter Ballard", "Subject 001", "All of the above"],
+        "correctAnswer": "All of the above"
+      },
+      {
+        "id": 16,
+        "question": "What is the name of Eddie Munson’s band?",
+        "options": ["The Hellfire", "Corroded Coffin", "Metalstorm", "Skullfire"],
+        "correctAnswer": "Corroded Coffin"
+      },
+      {
+        "id": 17,
+        "question": "What does Eddie play on top of the trailer in Season 4?",
+        "options": ["Back in Black", "Master of Puppets", "Sweet Child O' Mine", "The Trooper"],
+        "correctAnswer": "Master of Puppets"
+      },
+      {
+        "id": 18,
+        "question": "Who kills Papa (Dr. Brenner)?",
+        "options": ["Vecna", "Eleven", "The military sniper", "The Russians"],
+        "correctAnswer": "The military sniper"
+      },
+      {
+        "id": 19,
+        "question": "Where is Hopper imprisoned in Season 4?",
+        "options": ["Kamchatka", "Siberia", "Moscow", "Murmansk"],
+        "correctAnswer": "Kamchatka"
+      },
+      {
+        "id": 20,
+        "question": "What major event happens to Hawkins at the end of Season 4?",
+        "options": ["It is swallowed by the Upside Down fissures", "It is evacuated", "It is overrun by Demodogs", "It is destroyed by fire"],
+        "correctAnswer": "It is swallowed by the Upside Down fissures"
+      }
+    ]
+  }
+  
